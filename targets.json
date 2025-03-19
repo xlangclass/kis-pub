@@ -1,7 +1,7 @@
 {
      "017670" : [1900, 190000]
 , "035900" : [1900, 190000]
-, "vars" : {"SLOPE_THRESHOLD_BUY": 0.991,
+, "vars" : {"SLOPE_THRESHOLD_BUY": 1.0015,
      "SLOPE_THRESHOLD_SELL": 1.002
 }
 
