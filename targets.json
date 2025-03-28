@@ -30,7 +30,7 @@
 , "000100" : [1900, 190000]
 , "042660" : [1900, 190000]
      , "vars" : {"SLOPE_THRESHOLD_BUY": 1.0015,
-                "SLOPE_THRESHOLD_SELL": 0.999
+                "SLOPE_THRESHOLD_SELL": 0.9998
 }
 
 
